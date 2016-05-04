@@ -7,10 +7,10 @@ Dockerfileは、DockerコンテナのもとになるDockerイメージの構成�
 * CentOS公式イメージにApache HTTP Serverをインストール
 * ホストマシンの80番ポートを転送
 * Bootstrap3.4でスタイリングしたサンプルのHTMLコンテンツを/var/wwww/htmlにコピー
- 
+
 Usage
 ------
-    $ docker pull asashiho/dockersample
+    $ docker pull yama-take/dockersample
 
 
 ### Docker公式サイト
